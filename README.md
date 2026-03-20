@@ -66,7 +66,7 @@ Run the application with chainlit:
 
 
 ## Demo video
-
+![YouTube](https://youtu.be/0835dWM2oSI)
 ## Screenshots
 
 ![Screenshot 1](screenshots/Screen%20Shot%202026-03-20%20at%205.37.36%20PM.png)
