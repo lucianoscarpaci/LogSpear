@@ -3,6 +3,16 @@
 
 A forensic tool designed for SOC Analysts to identify suspicious IoT devices involved in botnets through intelligent log analysis.
 
+<img width="333" height="222" alt="medium" src="https://github.com/user-attachments/assets/27508843-6e6a-4ab4-9a64-fb0c0062e09b" />
+
+305 Hackathon Miami March. 2026
+
+Track #1 - Hackathon Competition - General Build
+Track #2 - Business Venture Arena Competition
+Opt-in Challenge #1
+Opt-in Challenge #2
+Opt-in Challenge #3
+
 ## Inspiration
 
 This forensic tool was designed for SOC Analysts who want to find suspicious IoT devices that have been used in Botnets through their log scans. The faster the SOC can find the infected IoT devices such as CCTV's and EV charging stations on the network, they can prevent future devices from becoming infected.
@@ -40,8 +50,8 @@ I learned how to use chainlit and langchain to help cybersecurity SOCs.
 - **LLM Framework**: LangChain
 - **Interface**: Chainlit
 - **Language**: Python
-- **Data Parsing**: LangChain JSON/CSV Loaders
-- **Deployment**: Vercel
+- **Data Parsing**: JSON parsing with Python
+- **Visualization**: Plotly for network graph visualization
 
 ## What's next for LogSpear
 
@@ -53,6 +63,15 @@ Start the Python venv in your shell and install the packages from the requiremen
 ```source venv/bin/activate && pip install -r requirements.txt```
 Run the application with chainlit:
 ```chainlit run app/LogSpear/app.py```
+
+
+## Demo video
+![YouTube](https://youtu.be/0835dWM2oSI)
+## Screenshots
+
+![Screenshot 1](screenshots/Screen%20Shot%202026-03-20%20at%205.37.36%20PM.png)
+![Screenshot 2](screenshots/Screen%20Shot%202026-03-20%20at%205.38.39%20PM.png)
+![Screenshot 3](screenshots/Screen%20Shot%202026-03-20%20at%205.45.54%20PM.png)
 
 ## License
 MIT License
