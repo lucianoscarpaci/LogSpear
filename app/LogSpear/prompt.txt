@@ -1,0 +1,22 @@
+# Test Prompts for sample_iot_logs.json
+
+## 1. Security Threat Overview
+Identify all devices showing suspicious activity and summarize the security threats present in this network, including which botnets are active.
+
+## 2. Botnet Analysis
+Which botnet has compromised the most devices? List all devices infected by the Mirai_Variant_A botnet and describe their connection patterns.
+
+## 3. Critical Infrastructure Risk
+Identify any compromised critical infrastructure devices (industrial controllers, building automation systems, fire alarms, medical devices) and assess the severity of these compromises.
+
+## 4. Geographic Threat Analysis
+Show me all connections to Russia and China. Which devices are communicating with these countries and what types of activities are occurring?
+
+## 5. High Traffic Anomalies
+Find all devices with traffic volume above 200 MB. Are these high-traffic devices legitimate or compromised? Explain the correlation between traffic volume and suspicious activity.
+
+## 6. Vulnerable Device Categories
+Which device types are most commonly compromised in this network? Analyze the patterns across CCTV cameras, routers, and other IoT devices.
+
+## 7. Network Mapping and Lateral Movement
+Map out the botnet network connections. Which compromised devices are connected to each other, and how might attackers be using these connections for lateral movement?
